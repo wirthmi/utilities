@@ -5,6 +5,7 @@ A collection of small utilities which I find handy in my everyday life.
 
 Currently it includes:
 
+
 * `heslovatko`
 
  This really simple Bash script is bending [Vim](http://www.vim.org/) and
@@ -20,3 +21,15 @@ script's parameter, do your editing stuff and write it back via Vim's `:wq`
 command. Before that don't forget to edit the script and set there a proper
 recipient id corresponding to your public key which you have previously added
 to your public key ring.
+
+
+* `facebook_chat_hidden_people.js`
+
+ This is a script for [Mozilla Firefox](https://www.mozilla.org/firefox/)'s
+add-on [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/).
+It improves [Facebook](https://www.facebook.com/) by allowing to hide selected
+people in chat's contact list but keeping your online status for them. For
+example someone can find it useful to hide ex girlfriends/boyfriends from
+his/her eyes. It's (only) partially an alternative to Google Chrome's
+extension called
+[Eternal Sunshine](https://chrome.google.com/webstore/detail/eternal-sunshine/feekljflolojpmfccnopoppafimmmlbg).

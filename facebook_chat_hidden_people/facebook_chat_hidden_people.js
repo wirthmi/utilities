@@ -28,7 +28,7 @@
 
   setInterval( function ( ) {
 
-    $( "ul.fbChatOrderedList ul li" ).each( function ( ) {
+    $( "div.fbChatOrderedList ul li" ).each( function ( ) {
 
       var isPersonExpectedToBeHidden =
         ( $.inArray( $( this ).attr( "data-id" ), hiddenPeopleDataIds ) !== -1 );

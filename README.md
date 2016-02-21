@@ -33,3 +33,13 @@ example someone can find it useful to hide ex girlfriends/boyfriends from
 his/her eyes. It's (only) partially an alternative to Google Chrome's
 extension called
 [Eternal Sunshine](https://chrome.google.com/webstore/detail/eternal-sunshine/feekljflolojpmfccnopoppafimmmlbg).
+
+
+And some outdated stuff:
+
+* `referaty`
+
+ Tiny web script written in PHP and MySQL for assigning students to some offered
+seminary paper topics. Really nothing interesting from nowdays point of view.
+E.g. [Google Forms](https://www.google.com/forms/about/) would work much better
+for this.
